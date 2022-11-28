@@ -25,4 +25,4 @@ var  primeNumbers = "";
 	  }	
        }	
        console.log("Prime numbers from 1 to 100 are :");
-       console.log(primeNumbers);
+       console.log(primeNumbers);0
